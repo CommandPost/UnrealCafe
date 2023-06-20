@@ -11,8 +11,3 @@
 ---
 
 {{ include "generated-latest-news" }}
-
----
-
-{{ include "advertise-banner" }}
-
