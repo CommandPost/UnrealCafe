@@ -1,3 +1,3 @@
-## P
+## D
 
-{{ include "faq/placeholder" }}
+{{ include "faq/disable-projects-by-default" }}
