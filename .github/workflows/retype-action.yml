@@ -1,4 +1,4 @@
-name: Update Resolve Cafe Website & Publish to GitHub Pages
+name: Update Unreal Cafe Website & Publish to GitHub Pages
 on:
   workflow_dispatch:
   push:
