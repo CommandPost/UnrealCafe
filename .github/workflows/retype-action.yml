@@ -65,14 +65,17 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git diff --quiet && git diff --staged --quiet || (
-            git stash --include-untracked
-            git pull --rebase origin main
-            git stash pop
-            git add docs/_includes/*
-            git commit -m "Update Generated Markdown Files"
-            git push
-          )
+          echo "Checking for changes to commit..."
+          git status
+          echo "Adding changes..."
+          git add -A docs/news/* docs/_includes/*
+          git status
+          echo "Committing changes..."
+          git commit -m "Update Generated Markdown Files" || echo "No changes to commit"
+          git status
+          echo "Pushing changes..."
+          git push
+          echo "Completed commit step."
 
       - name: Archive production artifacts
         uses: actions/upload-artifact@v3
