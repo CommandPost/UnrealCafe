@@ -4,7 +4,7 @@
         <description><![CDATA[Latest News from Unreal Cafe]]></description>
         <link>https://unreal.cafe</link>
         <generator>Unreal Cafe</generator>
-        <lastBuildDate>Tue, 20 Jun 2023 11:05:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Jun 2023 01:52:08 GMT</lastBuildDate>
         <atom:link href="https://unreal.cafe/rss.xml" rel="self" type="application/rss+xml"/>
         <pubDate>Tue, 20 Jun 2023 00:00:00 GMT</pubDate>
         <item>
@@ -17,6 +17,77 @@
             <link>https://unreal.cafe/#20th-june-2023</link>
             <guid isPermaLink="false">20th June 2023</guid>
             <pubDate>Tue, 20 Jun 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[21th June 2023]]></title>
+            <description><![CDATA[<p>Today is day one of <strong>Unreal Fest 2023</strong> in the Gold Coast. Woohoo!</p>
+<p>I'm on the ground, so if you see me, come and say &quot;hi&quot; - it's Chris from <a href="https://latenitefilms.com">LateNite</a>!</p>
+<p><img src="/static/chris.jpeg" alt=""></p>
+<p>Last night was the Welcome Reception at Stingray Lounge, which was a huge amount of fun - free food and drinks, and some of the smartest people in the Unreal world all in the same place.</p>
+<p><a href="https://twitter.com/ShifterCreative">Liz Ballantyne</a> captured a great photo and posted it to <a href="https://twitter.com/ShifterCreative/status/1671159475896750080">Twitter</a>:</p>
+<p><img src="/static/unrealfest-reception.jpeg" alt=""></p>
+]]></description>
+            <link>https://unreal.cafe/#21th-june-2023</link>
+            <guid isPermaLink="false">21th June 2023</guid>
+            <pubDate>Wed, 21 Jun 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[21th June 2023]]></title>
+            <description><![CDATA[<p>The opening welcome talk in the Rocket Room was fantastic.</p>
+<p>It had a beautiful Welcome to Country, followed by passionate talks by the Unreal Engine team.</p>
+<p>Epic has released the <strong>Electric Dreams Environment Sample Project</strong> to the world for free, allowing you to explore the new Procedural Content Generation framework in <strong>Unreal Engine 5.2</strong>.</p>
+<p>You can download and learn more <a href="https://www.unrealengine.com/en-US/electric-dreams-environment">here</a>.</p>
+<p>The Secret Kingdom, directed by <a href="https://en.wikipedia.org/wiki/Matt_Drummond">Matt Drummond</a>, used Unreal Engine. You can watch the trailer here:</p>
+<p><a href="https://www.youtube.com/watch?v=65jn5Fg96Qw"><img src="/static/secret-kingdom.jpg" alt=""></a></p>
+<p>Here's some photos of the slides from the opening talk:</p>
+<p><img src="/static/unreal-fest-01.jpeg" alt=""></p>
+<p><img src="/static/unreal-fest-02.jpeg" alt=""></p>
+<p><img src="/static/unreal-fest-03.jpeg" alt=""></p>
+<p><img src="/static/unreal-fest-04.jpeg" alt=""></p>
+<p><img src="/static/unreal-fest-05.jpeg" alt=""></p>
+<p><img src="/static/unreal-fest-06.jpeg" alt=""></p>
+<p><img src="/static/unreal-fest-07.jpeg" alt=""></p>
+<p><img src="/static/unreal-fest-08.jpeg" alt=""></p>
+<p><img src="/static/unreal-fest-09.jpeg" alt=""></p>
+<p><img src="/static/unreal-fest-10.jpeg" alt=""></p>
+<p><img src="/static/unreal-fest-11.jpeg" alt=""></p>
+<p><img src="/static/unreal-fest-12.jpeg" alt=""></p>
+<p><img src="/static/unreal-fest-13.jpeg" alt=""></p>
+<p><img src="/static/unreal-fest-14.jpeg" alt=""></p>
+<p><img src="/static/unreal-fest-15.jpeg" alt=""></p>
+<p><img src="/static/unreal-fest-16.jpeg" alt=""></p>
+<p><img src="/static/unreal-fest-17.jpeg" alt=""></p>
+<p><img src="/static/unreal-fest-18.jpeg" alt=""></p>
+<p><img src="/static/unreal-fest-19.jpeg" alt=""></p>
+]]></description>
+            <link>https://unreal.cafe/#21th-june-2023</link>
+            <guid isPermaLink="false">21th June 2023</guid>
+            <pubDate>Wed, 21 Jun 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[21th June 2023]]></title>
+            <description><![CDATA[<p>The first session I went to was <strong>The Golden Trifecta: Creating Hollywood-Ready Unreal Developers</strong>. It was awesome.</p>
+<p>Here's an video from last year talking about their workflows:</p>
+<p><a href="https://www.youtube.com/watch?v=SdJ9WgEuQ4k"><img src="/static/proxi-youtube.jpg" alt=""></a></p>
+<p>Reallusion Magazine also has a great article <a href="https://magazine.reallusion.com/2022/02/14/proxi-virtual-production-empowers-action-design-with-character-creator-iclone-and-unreal-engine/amp/">here</a> titled <strong>PROXi Virtual Production empowers Action Design with Character Creator, iClone, and Unreal Engine</strong>.</p>
+<p>There's also a great article <a href="https://matthewtoffolo.com/2015/11/10/interview-with-harrison-norris-director-of-the-award-winning-film-a-peaceful-man/">here</a> titled <strong>Interview with Harrison Norris, Director of the award winning film “A PEACEFUL MAN”</strong>.</p>
+<p>Here's some photos of the slides</p>
+<p><img src="/static/proxi-01.jpeg" alt=""></p>
+<p><img src="/static/proxi-02.jpeg" alt=""></p>
+<p><img src="/static/proxi-03.jpeg" alt=""></p>
+<p><img src="/static/proxi-04.jpeg" alt=""></p>
+<p><img src="/static/proxi-05.jpeg" alt=""></p>
+<p><img src="/static/proxi-06.jpeg" alt=""></p>
+<p><img src="/static/proxi-07.jpeg" alt=""></p>
+<p><img src="/static/proxi-08.jpeg" alt=""></p>
+<p><img src="/static/proxi-09.jpeg" alt=""></p>
+<p><img src="/static/proxi-10.jpeg" alt=""></p>
+<p><img src="/static/proxi-11.jpeg" alt=""></p>
+<p><img src="/static/proxi-12.jpeg" alt=""></p>
+]]></description>
+            <link>https://unreal.cafe/#21th-june-2023</link>
+            <guid isPermaLink="false">21th June 2023</guid>
+            <pubDate>Wed, 21 Jun 2023 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
