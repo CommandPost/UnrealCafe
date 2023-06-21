@@ -1,19 +1,21 @@
 # Social Media
 
-This page is dedicated to DaVinci Resolve Social Media links.
+This page is dedicated to Unreal Engine Social Media.
 
 ---
 
-### Facebook
+### Twitter
 
-The [DaVinci Resolve User Group](https://www.facebook.com/groups/245184039015257){target="_blank"} has 130.8K members.
+The official feed to follow:
 
----
+- [Unreal Engine](https://twitter.com/UnrealEngine){target="_blank"}
 
-### postchat.io
+Awesome people to follow:
 
-A place for all postproduction professionals, enthusiasts and anyone who wants to be part of Mastodon.
-
-Run by the amazing [Felipe Baez](https://cre8ivebeast.com){target="_blank"}.
-
-[postchat.io](https://postchat.io){target="_blank"}
+- [Alex Stevens](https://twitter.com/MilkyEngineer){target="_blank"}
+- [Chris Murphy](https://twitter.com/HighlySpammable){target="_blank"}
+- [HaZimation](https://twitter.com/HaZ_Dulull){target="_blank"}
+- [Liam O'Leary](https://twitter.com/LIAMODEARME){target="_blank"}
+- [Michela Ledwidge](https://twitter.com/michela){target="_blank"}
+- [Nathan Bazley](https://twitter.com/NathanBazley){target="_blank"}
+- [Satheesh PV](https://twitter.com/RyanJon2040){target="_blank"}
