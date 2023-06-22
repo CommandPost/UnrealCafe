@@ -4,7 +4,7 @@
         <description><![CDATA[Latest News from Unreal Cafe]]></description>
         <link>https://unreal.cafe</link>
         <generator>Unreal Cafe</generator>
-        <lastBuildDate>Thu, 22 Jun 2023 00:03:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Jun 2023 02:46:55 GMT</lastBuildDate>
         <atom:link href="https://unreal.cafe/rss.xml" rel="self" type="application/rss+xml"/>
         <pubDate>Tue, 20 Jun 2023 00:00:00 GMT</pubDate>
         <item>
@@ -139,51 +139,6 @@
         </item>
         <item>
             <title><![CDATA[21th June 2023]]></title>
-            <description><![CDATA[<p>The third session I attended was <strong>Photorealistic Digital Doubles for Feature Films: Technical Processing and Applications</strong> with Duncan Jones &amp; Lyle Hardwicke.</p>
-<p>To quote the schedule:</p>
-<blockquote>
-<p>Myriad Studios works at the leading edge of film and gaming technology, customising solutions using LiDAR, Cyber Scanning, Texturing and Photogrammetry to create high detail 3D digital doubles and simulations essential to the modern film, game, virtual reality and augmented reality production. This session will discuss how Myriad combines the power of Reality Capture and Unreal Engine to meet film production needs and exceed client expectations.</p>
-</blockquote>
-<p>It was a really great and interesting talk!</p>
-<p>Here's some photos of the slides:</p>
-<p><img src="/static/myriad-01.jpeg" alt=""></p>
-<p><img src="/static/myriad-02.jpeg" alt=""></p>
-<p><img src="/static/myriad-03.jpeg" alt=""></p>
-<p><img src="/static/myriad-04.jpeg" alt=""></p>
-<p><img src="/static/myriad-05.jpeg" alt=""></p>
-<p><img src="/static/myriad-06.jpeg" alt=""></p>
-<p><img src="/static/myriad-07.jpeg" alt=""></p>
-<p><img src="/static/myriad-08.jpeg" alt=""></p>
-<p><img src="/static/myriad-09.jpeg" alt=""></p>
-<p><img src="/static/myriad-10.jpeg" alt=""></p>
-<p><img src="/static/myriad-11.jpeg" alt=""></p>
-<p><img src="/static/myriad-12.jpeg" alt=""></p>
-<p><img src="/static/myriad-13.jpeg" alt=""></p>
-<p><img src="/static/myriad-14.jpeg" alt=""></p>
-<p><img src="/static/myriad-15.jpeg" alt=""></p>
-<p><img src="/static/myriad-16.jpeg" alt=""></p>
-<p><img src="/static/myriad-17.jpeg" alt=""></p>
-<p><img src="/static/myriad-18.jpeg" alt=""></p>
-<p><img src="/static/myriad-19.jpeg" alt=""></p>
-<p><img src="/static/myriad-20.jpeg" alt=""></p>
-<p><img src="/static/myriad-21.jpeg" alt=""></p>
-<p><img src="/static/myriad-22.jpeg" alt=""></p>
-<p><img src="/static/myriad-23.jpeg" alt=""></p>
-<p><img src="/static/myriad-24.jpeg" alt=""></p>
-<p><img src="/static/myriad-25.jpeg" alt=""></p>
-<p><img src="/static/myriad-26.jpeg" alt=""></p>
-<p><img src="/static/myriad-27.jpeg" alt=""></p>
-<p><img src="/static/myriad-28.jpeg" alt=""></p>
-<p><img src="/static/myriad-29.jpeg" alt=""></p>
-<p><img src="/static/myriad-30.jpeg" alt=""></p>
-<p><img src="/static/myriad-31.jpeg" alt=""></p>
-]]></description>
-            <link>https://unreal.cafe/#21th-june-2023</link>
-            <guid isPermaLink="false">21th June 2023</guid>
-            <pubDate>Wed, 21 Jun 2023 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[21th June 2023]]></title>
             <description><![CDATA[<p>The <strong>fourth</strong> session I attended was <strong>Essential Learning for Linear Content in Unreal</strong> by <strong>Shawn Dunn</strong> (Lead Technical Product Manager, Virtual Production @ Epic Games).</p>
 <p>Shawn mentioned that everyone should check out this video:</p>
 <p><a href="https://www.youtube.com/watch?v=bIGnx2jvrbg"><img src="/static/blue-dot-youtube.jpg" alt=""></a></p>
@@ -292,6 +247,17 @@ You can find out more about MetaHuman Animator <a href="https://www.unrealengine
         </item>
         <item>
             <title><![CDATA[22nd June 2023]]></title>
+            <description><![CDATA[<p>Today is day two (and the final day) of <strong>Unreal Fest 2023</strong> in the Gold Coast. Woohoo!</p>
+<p><img src="/static/gold-coast.jpeg" alt=""></p>
+<p>I'll be around at Unreal Fest all day, so if you see me, come and say &quot;hi&quot;.</p>
+<p>I'll continue to document the sessions I attend here. Enjoy!</p>
+]]></description>
+            <link>https://unreal.cafe/#22nd-june-2023</link>
+            <guid isPermaLink="false">22nd June 2023</guid>
+            <pubDate>Thu, 22 Jun 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[22nd June 2023]]></title>
             <description><![CDATA[<p><strong>Sam Anderson</strong> (Technical Marketing Manager @ Epic Games) just did an epic presentation that blew my mind.</p>
 <p>I've never heard of <strong>Twinmotion</strong> before - but it looks AMAZING. It's been described as &quot;Unreal Engine for Dummies&quot;, but it's actually basically a much more non-technical user friendly interface for Unreal Engine.</p>
 <p>The schedule says:</p>
@@ -312,6 +278,97 @@ You can find out more about MetaHuman Animator <a href="https://www.unrealengine
 <p><img src="/static/twinmotion-09.jpeg" alt=""></p>
 <p><img src="/static/twinmotion-10.jpeg" alt=""></p>
 <p><img src="/static/twinmotion-11.jpeg" alt=""></p>
+]]></description>
+            <link>https://unreal.cafe/#22nd-june-2023</link>
+            <guid isPermaLink="false">22nd June 2023</guid>
+            <pubDate>Thu, 22 Jun 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[22nd June 2023]]></title>
+            <description><![CDATA[<p>The second session I attended today was <strong>Fortifying Your Delivery Pipeline: Repurposing Technology and Solutions for Live Events</strong>.</p>
+<p>It was a really awesome highly technical talk, with lots of great questions from the audience at the end.</p>
+<p>They've set up a page on the Dev Community about their session <a href="https://dev.epicgames.com/community/learning/tutorials/pvJG/unreal-engine-fortifying-your-delivery-pipeline-repurposing-technology-for-interactive-experiences">here</a>.</p>
+<p>Presented by Andrew Joy (Lead Developer, 2Bit Studios), Ash Sewell (Lead Realtime Developer, S1T2) and Natalie Robinson (Producer, S1T2).</p>
+<p>You can follow Andrew on Twitter <a href="https://twitter.com/2bit_studios">here</a>.</p>
+<p>You can follow Natalie on Twitter <a href="https://twitter.com/NatMRobinson">here</a>.</p>
+<p>The schedule says:</p>
+<blockquote>
+<p>Let’s look at DevOps and SysOps through a different lens. Join us to discover how leveraging proven solutions from outside the Unreal ecosystem can enhance your delivery pipeline.<br />
+<br />
+We’ll dive into how we've been able to integrate live data, automation and analytics into our projects by repurposing solutions from live shows, web and IT. Together we’ll explore how thinking laterally can revamp your own pipelines.</p>
+</blockquote>
+<p>There was lots of juicy geeky technical slides:</p>
+<p><img src="/static/dev-ops-1.jpeg" alt=""></p>
+<p><img src="/static/dev-ops-2.jpeg" alt=""></p>
+<p><img src="/static/dev-ops-3.jpeg" alt=""></p>
+<p><img src="/static/dev-ops-4.jpeg" alt=""></p>
+<p><img src="/static/dev-ops-5.jpeg" alt=""></p>
+<p><img src="/static/dev-ops-6.jpeg" alt=""></p>
+<p><img src="/static/dev-ops-7.jpeg" alt=""></p>
+<p><img src="/static/dev-ops-8.jpeg" alt=""></p>
+<p><img src="/static/dev-ops-9.jpeg" alt=""></p>
+<p><img src="/static/dev-ops-10.jpeg" alt=""></p>
+<p><img src="/static/dev-ops-11.jpeg" alt=""></p>
+<p><img src="/static/dev-ops-12.jpeg" alt=""></p>
+<p><img src="/static/dev-ops-13.jpeg" alt=""></p>
+<p><img src="/static/dev-ops-14.jpeg" alt=""></p>
+<p><img src="/static/dev-ops-15.jpeg" alt=""></p>
+<p><img src="/static/dev-ops-16.jpeg" alt=""></p>
+<p><img src="/static/dev-ops-17.jpeg" alt=""></p>
+<p><img src="/static/dev-ops-18.jpeg" alt=""></p>
+<p><img src="/static/dev-ops-19.jpeg" alt=""></p>
+<p><img src="/static/dev-ops-20.jpeg" alt=""></p>
+<p><img src="/static/dev-ops-21.jpeg" alt=""></p>
+<p><img src="/static/dev-ops-22.jpeg" alt=""></p>
+<p><img src="/static/dev-ops-23.jpeg" alt=""></p>
+<p><img src="/static/dev-ops-24.jpeg" alt=""></p>
+<p><img src="/static/dev-ops-25.jpeg" alt=""></p>
+<p><img src="/static/dev-ops-26.jpeg" alt=""></p>
+<p><img src="/static/dev-ops-27.jpeg" alt=""></p>
+<p><img src="/static/dev-ops-28.jpeg" alt=""></p>
+<p><img src="/static/dev-ops-29.jpeg" alt=""></p>
+<p><img src="/static/dev-ops-30.jpeg" alt=""></p>
+<p><img src="/static/dev-ops-31.jpeg" alt=""></p>
+<p><img src="/static/dev-ops-32.jpeg" alt=""></p>
+<p><img src="/static/dev-ops-33.jpeg" alt=""></p>
+<p><img src="/static/dev-ops-34.jpeg" alt=""></p>
+<p><img src="/static/dev-ops-35.jpeg" alt=""></p>
+<p><img src="/static/dev-ops-36.jpeg" alt=""></p>
+<p><img src="/static/dev-ops-37.jpeg" alt=""></p>
+<p><img src="/static/dev-ops-38.jpeg" alt=""></p>
+<p><img src="/static/dev-ops-39.jpeg" alt=""></p>
+<p><img src="/static/dev-ops-40.jpeg" alt=""></p>
+<p><img src="/static/dev-ops-41.jpeg" alt=""></p>
+<p><img src="/static/dev-ops-42.jpeg" alt=""></p>
+<p><img src="/static/dev-ops-43.jpeg" alt=""></p>
+<p><img src="/static/dev-ops-44.jpeg" alt=""></p>
+<p><img src="/static/dev-ops-45.jpeg" alt=""></p>
+<p><img src="/static/dev-ops-46.jpeg" alt=""></p>
+<p><img src="/static/dev-ops-47.jpeg" alt=""></p>
+<p><img src="/static/dev-ops-48.jpeg" alt=""></p>
+<p><img src="/static/dev-ops-49.jpeg" alt=""></p>
+<p><img src="/static/dev-ops-50.jpeg" alt=""></p>
+<p><img src="/static/dev-ops-51.jpeg" alt=""></p>
+<p><img src="/static/dev-ops-52.jpeg" alt=""></p>
+<p><img src="/static/dev-ops-53.jpeg" alt=""></p>
+<p><img src="/static/dev-ops-54.jpeg" alt=""></p>
+<p><img src="/static/dev-ops-55.jpeg" alt=""></p>
+<p><img src="/static/dev-ops-56.jpeg" alt=""></p>
+<p><img src="/static/dev-ops-57.jpeg" alt=""></p>
+<p><img src="/static/dev-ops-58.jpeg" alt=""></p>
+<p><img src="/static/dev-ops-59.jpeg" alt=""></p>
+<p><img src="/static/dev-ops-60.jpeg" alt=""></p>
+<p><img src="/static/dev-ops-61.jpeg" alt=""></p>
+<p><img src="/static/dev-ops-62.jpeg" alt=""></p>
+<p><img src="/static/dev-ops-63.jpeg" alt=""></p>
+<p><img src="/static/dev-ops-64.jpeg" alt=""></p>
+<p><img src="/static/dev-ops-65.jpeg" alt=""></p>
+<p><img src="/static/dev-ops-66.jpeg" alt=""></p>
+<p><img src="/static/dev-ops-67.jpeg" alt=""></p>
+<p><img src="/static/dev-ops-68.jpeg" alt=""></p>
+<p><img src="/static/dev-ops-69.jpeg" alt=""></p>
+<p><img src="/static/dev-ops-70.jpeg" alt=""></p>
+<p><img src="/static/dev-ops-71.jpeg" alt=""></p>
 ]]></description>
             <link>https://unreal.cafe/#22nd-june-2023</link>
             <guid isPermaLink="false">22nd June 2023</guid>
