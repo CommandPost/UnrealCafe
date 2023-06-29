@@ -4,7 +4,7 @@
         <description><![CDATA[Latest News from Unreal Cafe]]></description>
         <link>https://unreal.cafe</link>
         <generator>Unreal Cafe</generator>
-        <lastBuildDate>Thu, 22 Jun 2023 07:12:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Jun 2023 10:00:39 GMT</lastBuildDate>
         <atom:link href="https://unreal.cafe/rss.xml" rel="self" type="application/rss+xml"/>
         <pubDate>Tue, 20 Jun 2023 00:00:00 GMT</pubDate>
         <item>
@@ -139,51 +139,6 @@
         </item>
         <item>
             <title><![CDATA[21th June 2023]]></title>
-            <description><![CDATA[<p>The third session I attended was <strong>Photorealistic Digital Doubles for Feature Films: Technical Processing and Applications</strong> with Duncan Jones &amp; Lyle Hardwicke.</p>
-<p>To quote the schedule:</p>
-<blockquote>
-<p>Myriad Studios works at the leading edge of film and gaming technology, customising solutions using LiDAR, Cyber Scanning, Texturing and Photogrammetry to create high detail 3D digital doubles and simulations essential to the modern film, game, virtual reality and augmented reality production. This session will discuss how Myriad combines the power of Reality Capture and Unreal Engine to meet film production needs and exceed client expectations.</p>
-</blockquote>
-<p>It was a really great and interesting talk!</p>
-<p>Here's some photos of the slides:</p>
-<p><img src="/static/myriad-01.jpeg" alt=""></p>
-<p><img src="/static/myriad-02.jpeg" alt=""></p>
-<p><img src="/static/myriad-03.jpeg" alt=""></p>
-<p><img src="/static/myriad-04.jpeg" alt=""></p>
-<p><img src="/static/myriad-05.jpeg" alt=""></p>
-<p><img src="/static/myriad-06.jpeg" alt=""></p>
-<p><img src="/static/myriad-07.jpeg" alt=""></p>
-<p><img src="/static/myriad-08.jpeg" alt=""></p>
-<p><img src="/static/myriad-09.jpeg" alt=""></p>
-<p><img src="/static/myriad-10.jpeg" alt=""></p>
-<p><img src="/static/myriad-11.jpeg" alt=""></p>
-<p><img src="/static/myriad-12.jpeg" alt=""></p>
-<p><img src="/static/myriad-13.jpeg" alt=""></p>
-<p><img src="/static/myriad-14.jpeg" alt=""></p>
-<p><img src="/static/myriad-15.jpeg" alt=""></p>
-<p><img src="/static/myriad-16.jpeg" alt=""></p>
-<p><img src="/static/myriad-17.jpeg" alt=""></p>
-<p><img src="/static/myriad-18.jpeg" alt=""></p>
-<p><img src="/static/myriad-19.jpeg" alt=""></p>
-<p><img src="/static/myriad-20.jpeg" alt=""></p>
-<p><img src="/static/myriad-21.jpeg" alt=""></p>
-<p><img src="/static/myriad-22.jpeg" alt=""></p>
-<p><img src="/static/myriad-23.jpeg" alt=""></p>
-<p><img src="/static/myriad-24.jpeg" alt=""></p>
-<p><img src="/static/myriad-25.jpeg" alt=""></p>
-<p><img src="/static/myriad-26.jpeg" alt=""></p>
-<p><img src="/static/myriad-27.jpeg" alt=""></p>
-<p><img src="/static/myriad-28.jpeg" alt=""></p>
-<p><img src="/static/myriad-29.jpeg" alt=""></p>
-<p><img src="/static/myriad-30.jpeg" alt=""></p>
-<p><img src="/static/myriad-31.jpeg" alt=""></p>
-]]></description>
-            <link>https://unreal.cafe/#21th-june-2023</link>
-            <guid isPermaLink="false">21th June 2023</guid>
-            <pubDate>Wed, 21 Jun 2023 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[21th June 2023]]></title>
             <description><![CDATA[<p>The <strong>fourth</strong> session I attended was <strong>Essential Learning for Linear Content in Unreal</strong> by <strong>Shawn Dunn</strong> (Lead Technical Product Manager, Virtual Production @ Epic Games).</p>
 <p>Shawn mentioned that everyone should check out this video:</p>
 <p><a href="https://www.youtube.com/watch?v=bIGnx2jvrbg"><img src="/static/blue-dot-youtube.jpg" alt=""></a></p>
@@ -289,6 +244,17 @@ You can find out more about MetaHuman Animator <a href="https://www.unrealengine
             <link>https://unreal.cafe/#21th-june-2023</link>
             <guid isPermaLink="false">21th June 2023</guid>
             <pubDate>Wed, 21 Jun 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[22nd June 2023]]></title>
+            <description><![CDATA[<p>Today is day two (and the final day) of <strong>Unreal Fest 2023</strong> in the Gold Coast. Woohoo!</p>
+<p><img src="/static/gold-coast.jpeg" alt=""></p>
+<p>I'll be around at Unreal Fest all day, so if you see me, come and say &quot;hi&quot;.</p>
+<p>I'll continue to document the sessions I attend here. Enjoy!</p>
+]]></description>
+            <link>https://unreal.cafe/#22nd-june-2023</link>
+            <guid isPermaLink="false">22nd June 2023</guid>
+            <pubDate>Thu, 22 Jun 2023 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[22nd June 2023]]></title>
@@ -573,6 +539,24 @@ We’ll dive into how we've been able to integrate live data, automation and ana
             <link>https://unreal.cafe/#22nd-june-2023</link>
             <guid isPermaLink="false">22nd June 2023</guid>
             <pubDate>Thu, 22 Jun 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[23rd June 2023]]></title>
+            <description><![CDATA[<p>The awesome team at S1T2 have done a great blog post about their Unreal Fest presentation titled, <strong>UnrealFest 2023: How lateral thinking could revolutionise your real-time pipeline</strong>.</p>
+<p>You can read it <a href="https://s1t2.com/blog/unrealfest-2023-how-lateral-thinking-could-revolutionise-your-real-time-pipeline">here</a>.</p>
+<p>I also had an amazing chat with <strong>Matt Drummond</strong> last night, and here's some awesome facts he didn't mention in his presentation:</p>
+<ul>
+<li>Roughly 7 person film crew for the live action shoot</li>
+<li>Edited, Sound Mixed and Colour Graded in DaVinci Resolve</li>
+<li>Shot on Blackmagic Cameras</li>
+</ul>
+<p>You can also find some of his awesome YouTube videos <a href="https://www.youtube.com/@hivestudiosinternational/videos">here</a>.</p>
+<p>For example:</p>
+<p><a href="https://www.youtube.com/watch?v=6Z_JMPUmb0c"><img src="/static/the-golden-walk-cycle.jpg" alt=""></a></p>
+]]></description>
+            <link>https://unreal.cafe/#23rd-june-2023</link>
+            <guid isPermaLink="false">23rd June 2023</guid>
+            <pubDate>Fri, 23 Jun 2023 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
