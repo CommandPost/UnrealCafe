@@ -1,13 +1,23 @@
 # 2023
 ## June
 
+{{ include "news/20230630" }}
+
+[!button text="Discuss this news item" variant="info"](news/20230630)
+
+---
+
+{{ include "sponsors/sponsor-01.md" }}
+
+---
+
 {{ include "news/20230623" }}
 
 [!button text="Discuss this news item" variant="info"](news/20230623)
 
 ---
 
-{{ include "sponsors/sponsor-01.md" }}
+{{ include "sponsors/sponsor-02.md" }}
 
 ---
 
@@ -17,7 +27,7 @@
 
 ---
 
-{{ include "sponsors/sponsor-02.md" }}
+{{ include "sponsors/sponsor-03.md" }}
 
 ---
 
@@ -27,7 +37,7 @@
 
 ---
 
-{{ include "sponsors/sponsor-03.md" }}
+{{ include "sponsors/sponsor-04.md" }}
 
 ---
 
@@ -37,7 +47,7 @@
 
 ---
 
-{{ include "sponsors/sponsor-04.md" }}
+{{ include "sponsors/sponsor-02.md" }}
 
 ---
 
